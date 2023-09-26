@@ -1,0 +1,1502 @@
+[
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3ec"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65540313720703,
+                10.784116744995117
+            ]
+        },
+        "properties": {
+            "number": "52LD3962"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3ed"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.75247192382812,
+                10.802494049072266
+            ]
+        },
+        "properties": {
+            "number": "72A-27846"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3ee"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65534210205078,
+                10.78405475616455
+            ]
+        },
+        "properties": {
+            "number": "50LD00582"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3ef"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65518951416016,
+                10.784045219421387
+            ]
+        },
+        "properties": {
+            "number": "53S8407"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f0"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65531158447266,
+                10.784059524536133
+            ]
+        },
+        "properties": {
+            "number": "51LD5774"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f1"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65502166748047,
+                10.783960342407227
+            ]
+        },
+        "properties": {
+            "number": "50LD00537"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f2"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6551513671875,
+                10.78470516204834
+            ]
+        },
+        "properties": {
+            "number": "50LD00583"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f3"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65491485595703,
+                10.7839937210083
+            ]
+        },
+        "properties": {
+            "number": "50LD00641"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f4"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.42449951171875,
+                10.441587448120117
+            ]
+        },
+        "properties": {
+            "number": "51B21667"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f5"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6553726196289,
+                10.784290313720703
+            ]
+        },
+        "properties": {
+            "number": "50LD00611"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f6"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65510559082031,
+                10.783967971801758
+            ]
+        },
+        "properties": {
+            "number": "51LD5770"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f7"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65510559082031,
+                10.783994674682617
+            ]
+        },
+        "properties": {
+            "number": "50LD00551"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f8"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65541076660156,
+                10.78459644317627
+            ]
+        },
+        "properties": {
+            "number": "50LD00516"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3f9"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65501403808594,
+                10.784116744995117
+            ]
+        },
+        "properties": {
+            "number": "50LD00550"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3fa"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6550064086914,
+                10.78410530090332
+            ]
+        },
+        "properties": {
+            "number": "50LD00633"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3fb"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.42449951171875,
+                10.441587448120117
+            ]
+        },
+        "properties": {
+            "number": "51B21667"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3fc"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6553726196289,
+                10.78441333770752
+            ]
+        },
+        "properties": {
+            "number": "50LD00577"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3fd"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65454864501953,
+                10.783987045288086
+            ]
+        },
+        "properties": {
+            "number": "50LD00647"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3fe"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65538024902344,
+                10.784364700317383
+            ]
+        },
+        "properties": {
+            "number": "50LD00610"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe3ff"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65533447265625,
+                10.784078598022461
+            ]
+        },
+        "properties": {
+            "number": "50LD10215"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe400"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65544128417969,
+                10.7843017578125
+            ]
+        },
+        "properties": {
+            "number": "50LD10159"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe401"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6550064086914,
+                10.784138679504395
+            ]
+        },
+        "properties": {
+            "number": "50LD00638"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe402"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65541076660156,
+                10.784123420715332
+            ]
+        },
+        "properties": {
+            "number": "51LD9601"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe403"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65493774414062,
+                10.784048080444336
+            ]
+        },
+        "properties": {
+            "number": "50LD00514"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe404"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.75253295898438,
+                10.802391052246094
+            ]
+        },
+        "properties": {
+            "number": "72B-02534"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe405"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.46710968017578,
+                10.837980270385742
+            ]
+        },
+        "properties": {
+            "number": "53S0261"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe406"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65520477294922,
+                10.784614562988281
+            ]
+        },
+        "properties": {
+            "number": "50LD00596"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe407"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65550231933594,
+                10.78413200378418
+            ]
+        },
+        "properties": {
+            "number": "52LD3300"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe408"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.75259399414062,
+                10.802721977233887
+            ]
+        },
+        "properties": {
+            "number": "72A09607"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe409"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6733627319336,
+                10.837550163269043
+            ]
+        },
+        "properties": {
+            "number": "51C20756"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40a"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.4454116821289,
+                11.131719589233398
+            ]
+        },
+        "properties": {
+            "number": "51B06733"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40b"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.1147232055664,
+                10.396644592285156
+            ]
+        },
+        "properties": {
+            "number": "72A-03422"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40c"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.75253295898438,
+                10.802391052246094
+            ]
+        },
+        "properties": {
+            "number": "72B-02534"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40d"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66880798339844,
+                10.80529499053955
+            ]
+        },
+        "properties": {
+            "number": "51B32490"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40e"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.67108154296875,
+                10.833589553833008
+            ]
+        },
+        "properties": {
+            "number": "62A07223"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe40f"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.72919464111328,
+                10.787864685058594
+            ]
+        },
+        "properties": {
+            "number": "72B-01258"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe410"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.23130798339844,
+                11.083433151245117
+            ]
+        },
+        "properties": {
+            "number": "53M6548"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe411"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.70597839355469,
+                10.694526672363281
+            ]
+        },
+        "properties": {
+            "number": "51B16622"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe412"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.70573425292969,
+                10.694554328918457
+            ]
+        },
+        "properties": {
+            "number": "51B27891"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe413"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.0398941040039,
+                10.536649703979492
+            ]
+        },
+        "properties": {
+            "number": "72C-06539"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe414"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.50985717773438,
+                10.965109825134277
+            ]
+        },
+        "properties": {
+            "number": "51B21963"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe415"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09525299072266,
+                10.364974021911621
+            ]
+        },
+        "properties": {
+            "number": "72A-00433"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe416"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66715240478516,
+                10.805516242980957
+            ]
+        },
+        "properties": {
+            "number": "53N5010"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe417"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09561920166016,
+                10.365123748779297
+            ]
+        },
+        "properties": {
+            "number": "72B-00713"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe418"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.80409240722656,
+                19.324970245361328
+            ]
+        },
+        "properties": {
+            "number": "72A-34689"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe419"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6679916381836,
+                10.966523170471191
+            ]
+        },
+        "properties": {
+            "number": "51B18127"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41a"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65377044677734,
+                10.80298137664795
+            ]
+        },
+        "properties": {
+            "number": "51B17445"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41b"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.65443420410156,
+                10.78884506225586
+            ]
+        },
+        "properties": {
+            "number": "51B27270"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41c"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.79119873046875,
+                19.34901237487793
+            ]
+        },
+        "properties": {
+            "number": "72A-32593"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41d"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.59382629394531,
+                10.569726943969727
+            ]
+        },
+        "properties": {
+            "number": "62B00808"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41e"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.0950927734375,
+                10.365406036376953
+            ]
+        },
+        "properties": {
+            "number": "72A-28946"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe41f"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.40646362304688,
+                10.54765796661377
+            ]
+        },
+        "properties": {
+            "number": "62B-01322"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe420"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.69013214111328,
+                10.804200172424316
+            ]
+        },
+        "properties": {
+            "number": "51B05082"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe421"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.70571899414062,
+                10.694808006286621
+            ]
+        },
+        "properties": {
+            "number": "51B22560"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe422"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66768646240234,
+                10.804935455322266
+            ]
+        },
+        "properties": {
+            "number": "51B32493"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe423"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                108.8102798461914,
+                15.38344669342041
+            ]
+        },
+        "properties": {
+            "number": "72A-19051"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe424"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.77389526367188,
+                10.814464569091797
+            ]
+        },
+        "properties": {
+            "number": "51B06549"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe425"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64105224609375,
+                10.770281791687012
+            ]
+        },
+        "properties": {
+            "number": "53N4966"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe426"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.61248779296875,
+                10.740528106689453
+            ]
+        },
+        "properties": {
+            "number": "51B12611"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe427"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64104461669922,
+                10.770381927490234
+            ]
+        },
+        "properties": {
+            "number": "51B21808"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe428"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09519958496094,
+                10.365262031555176
+            ]
+        },
+        "properties": {
+            "number": "72A-21938"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe429"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66734313964844,
+                10.804983139038086
+            ]
+        },
+        "properties": {
+            "number": "51B20923"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42a"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66876983642578,
+                10.80530071258545
+            ]
+        },
+        "properties": {
+            "number": "51B32931"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42b"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09513092041016,
+                10.36623477935791
+            ]
+        },
+        "properties": {
+            "number": "72A-21573"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42c"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.0291519165039,
+                10.640359878540039
+            ]
+        },
+        "properties": {
+            "number": "72B-00810"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42d"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.55010223388672,
+                10.68362808227539
+            ]
+        },
+        "properties": {
+            "number": "51B08169"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42e"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.85951232910156,
+                10.78894329071045
+            ]
+        },
+        "properties": {
+            "number": "51B02336"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe42f"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64330291748047,
+                10.797300338745117
+            ]
+        },
+        "properties": {
+            "number": "51B28629"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe430"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66622161865234,
+                10.857627868652344
+            ]
+        },
+        "properties": {
+            "number": "51B14725"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe431"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.2860336303711,
+                10.41694164276123
+            ]
+        },
+        "properties": {
+            "number": "72B-01688"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe432"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.0956039428711,
+                10.364859580993652
+            ]
+        },
+        "properties": {
+            "number": "72B-02669"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe433"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66753387451172,
+                10.805473327636719
+            ]
+        },
+        "properties": {
+            "number": "53N4396"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe434"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66736602783203,
+                10.805171966552734
+            ]
+        },
+        "properties": {
+            "number": "51B25423"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe435"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6412582397461,
+                10.771381378173828
+            ]
+        },
+        "properties": {
+            "number": "51B22008"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe436"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64129638671875,
+                10.771394729614258
+            ]
+        },
+        "properties": {
+            "number": "51B22180"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe437"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64092254638672,
+                10.771236419677734
+            ]
+        },
+        "properties": {
+            "number": "51B22177"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe438"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.80388641357422,
+                19.325035095214844
+            ]
+        },
+        "properties": {
+            "number": "72A-31010"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe439"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09495544433594,
+                10.365835189819336
+            ]
+        },
+        "properties": {
+            "number": "72B-01488"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43a"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                108.81025695800781,
+                15.384272575378418
+            ]
+        },
+        "properties": {
+            "number": "72B-02301"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43b"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09512329101562,
+                10.366148948669434
+            ]
+        },
+        "properties": {
+            "number": "72B-01346"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43c"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09535217285156,
+                10.365989685058594
+            ]
+        },
+        "properties": {
+            "number": "72B-03232"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43d"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.10507202148438,
+                16.81414031982422
+            ]
+        },
+        "properties": {
+            "number": "72A-19782"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43e"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.64100646972656,
+                10.771293640136719
+            ]
+        },
+        "properties": {
+            "number": "51B22165"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe43f"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.51871490478516,
+                10.951098442077637
+            ]
+        },
+        "properties": {
+            "number": "51B23483"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe440"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09559631347656,
+                10.3650484085083
+            ]
+        },
+        "properties": {
+            "number": "72B-03143"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe441"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.75248718261719,
+                10.802536964416504
+            ]
+        },
+        "properties": {
+            "number": "72A-27320"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe442"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.79148864746094,
+                19.348264694213867
+            ]
+        },
+        "properties": {
+            "number": "72A-25184"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe443"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09515380859375,
+                10.36567497253418
+            ]
+        },
+        "properties": {
+            "number": "72B-02400"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe444"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.86002349853516,
+                9.947532653808594
+            ]
+        },
+        "properties": {
+            "number": "72B-02363"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe445"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.0960693359375,
+                10.356558799743652
+            ]
+        },
+        "properties": {
+            "number": "72B-00285"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe446"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09474182128906,
+                10.366171836853027
+            ]
+        },
+        "properties": {
+            "number": "72B03125"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe447"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09624481201172,
+                10.356490135192871
+            ]
+        },
+        "properties": {
+            "number": "72C-03106"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe448"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.48341369628906,
+                10.968196868896484
+            ]
+        },
+        "properties": {
+            "number": "53N5223"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe449"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.66783905029297,
+                10.805520057678223
+            ]
+        },
+        "properties": {
+            "number": "51B25531"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44a"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.6729965209961,
+                10.837499618530273
+            ]
+        },
+        "properties": {
+            "number": "51C65728"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44b"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                105.85032653808594,
+                10.256190299987793
+            ]
+        },
+        "properties": {
+            "number": "51B40551"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44c"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                107.09553527832031,
+                10.365511894226074
+            ]
+        },
+        "properties": {
+            "number": "72B-02509"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44d"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.71243286132812,
+                10.817331314086914
+            ]
+        },
+        "properties": {
+            "number": "51B21915"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44e"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                109.28228759765625,
+                13.570755004882812
+            ]
+        },
+        "properties": {
+            "number": "51B15849"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5e0b7e90987d3f04c43fe44f"
+        },
+        "geometry": {
+            "type": "Point",
+            "location": [
+                106.95335388183594,
+                10.953615188598633
+            ]
+        },
+        "properties": {
+            "number": "61B00861"
+        }
+    }    
+]
