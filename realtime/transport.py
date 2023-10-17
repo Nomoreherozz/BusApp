@@ -3,7 +3,7 @@ import json
 import time
 
 
-data = open("./39.json", encoding="utf-8")
+data = open("data/39.json", encoding="utf-8")
 buses = json.load(data)
 
 class Bus():
