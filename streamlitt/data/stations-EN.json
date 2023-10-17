@@ -1,0 +1,902 @@
+[
+    {
+        "bus_routes": "39",
+        "name": "Becamex Tower",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6705121,
+        "latitude":10.9758774,
+        "id": "4214878553"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Go Dau Station",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.670538,
+        "latitude":10.970269,
+        "id": "4214878554"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Cay Me Three-way Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6716315,
+        "latitude":10.9636232,
+        "id": "4214944313"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Phu Tho People's Committee",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6751854,
+        "latitude":10.9620774,
+        "id": "4214944314"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Cafe Lucky",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6796373,
+        "latitude":10.9639229,
+        "id": "4248076567"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Dia Chat Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6826574,
+        "latitude":10.9652186,
+        "id": "4214944317"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Le Hong Phong - Binh Duong Avenue Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6830863,
+        "latitude":10.9672203,
+        "id": "4214944318"
+    },
+    {
+        "bus_routes": "39",
+        "name": "BInh Duong Medical College",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6825286,
+        "latitude":10.9704603,
+        "id": "4214944319"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Le Hong Phong - D1 Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6818473,
+        "latitude":10.9740342,
+        "id": "4214944321"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Le Hong Phong - Quater 8",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6809241,
+        "latitude":10.9788409,
+        "id": "4214944322"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Phu Hoa Secondary School",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6800804,
+        "latitude":10.9831749,
+        "id": "4214944323"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Binh Duong Department of Statistic",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6738433,
+        "latitude":10.9857788,
+        "id": "4214944326"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Huynh Van Luy - Le Hong Phong Three-way Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.673652,
+        "latitude":10.9904112,
+        "id": "4214944328"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Phu Loi  Cultural and Sports Centers;",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6751183,
+        "latitude":10.9989855,
+        "id": "4214944329"
+    },
+    {
+        "bus_routes": "39",
+        "name": "HUynh Van Luy - My Phuoc Tan Van Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6757822,
+        "latitude":11.0032322,
+        "id": "4214944330"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Phu My People’s Committee",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6764781,
+        "latitude":11.0111916,
+        "id": "4214944331"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Phu My General Clinic",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6824131,
+        "latitude":11.0357851,
+        "id": "4214944334"
+    },
+    { 
+        "bus_routes": "39",        
+        "name": "Ngo Thoi Nhiem Primary - Secondary - High School",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6896385,
+        "latitude":11.0531492,      
+        "id": "3185708811"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Ly Thai To Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6872,
+        "latitude":11.0553736,
+        "id": "4214878588"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Becamex New City Hotel",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6846084,
+        "latitude":11.0571726,
+        "id": "4214878589"
+    },
+    { 
+        "bus_routes": "39",        
+        "name": "Hoi An Pagoda",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",      
+        "longitude":106.6868599,
+        "latitude":11.064997,
+        "id": "3185723720"
+    },
+    {
+        "bus_routes": "39",
+        "name": "Le Hoan Unitown",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6854642,
+        "latitude":11.0709744,
+        "id": "4214944336"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VSIP 2 Port",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6849785,
+        "latitude":11.0732293,
+        "id": "4214944337"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VISIP 2 Thong Nhat Str - Str No.2",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6839461,
+        "latitude":11.0776343,
+        "id": "4216979200"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VISIP 2 Thong Nhat Str - Str No.4",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6828492,
+        "latitude":11.0826317,
+        "id": "4216979201"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VISIP 2 Thong Nhat Str - Dan Chu",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6820412,
+        "latitude":11.0855253,
+        "id": "4216979199"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VISIP 2 Thong Nhat Str - Str No.6",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6811408,
+        "latitude":11.0893927,
+        "id": "4216979197"
+    },
+    {
+        "bus_routes": "39",
+        "name": "VISIP 2 Thong Nhat Str - Str no.7",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6804814,
+        "latitude":11.092152,
+        "id": "4216979198"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Becamex Tower",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6705121,
+        "latitude":10.9758774,
+        "id": "4214878553"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Go Dau Station",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.670538,
+        "latitude":10.970269,
+        "id": "4214878554"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Lo Chen Three-way Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6603734,
+        "latitude":10.9687267,
+        "id": "4214878556"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Binh Minh Bookstore",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6577244,
+        "latitude":10.9763659,
+        "id": "4214878557"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Phu Cuong Park",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6561948,
+        "latitude":10.9784859,
+        "id": "4214878558"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Binh Duong Obstetrics and pediatrics hospitals",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6526569,
+        "latitude":10.9834033,
+        "id": "4214878560"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Cay Dua Market",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6510227,
+        "latitude":10.9906971,
+        "id": "4214878561"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Hiep Thanh Police Station",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6541456,
+        "latitude":10.9925446,
+        "id": "4214878562"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Binh Duong Library",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6560862,
+        "latitude":10.9936651,
+        "id": "4214878563"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Binh Duong General Clinic",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6567101,
+        "latitude":10.9963145,
+        "id": "4214878566"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Pham Ngoc Thach - Nguyen Duong Thuan Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6637777,
+        "latitude":11.0022154,
+        "id": "4214878568"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Petrus Ky Primary School",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6668309,
+        "latitude":11.0053222,
+        "id": "4214878570"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Pham Ngoc Thach - My Phuoc Tan Van Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6691645,
+        "latitude":11.0085027,
+        "id": "4214878572"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Thu Dau Mot Cultural and Sports Centers",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6756054,
+        "latitude":11.0137461,
+        "id": "4214878574"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Pham Ngoc Thach - Tran Ngoc Len Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.67798,
+        "latitude":11.0247679,
+        "id": "4214878576"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Pham Ngoc Thach Str - No.1",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.678784,
+        "latitude":11.0351164,
+        "id": "4214878578"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Hung Vuong - Vo Van Kiet Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.676327,
+        "latitude":11.0422748,
+        "id": "4214878580"
+    }, 
+    { 
+        "bus_routes": "51",        
+        "name": "Sora garden",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6789179,
+        "latitude":11.0469268,      
+        "id": "3185720926"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Luky Square",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6823683,
+        "latitude":11.0522581,
+        "id": "4214878581"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Le Loi Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6844111,
+        "latitude":11.0517194,
+        "id": "4214878583"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Dong Khoi Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6865134,
+        "latitude":11.0531158,
+        "id": "4214878586"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Ly Thai To Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6872,
+        "latitude":11.0553736,
+        "id": "4214878588"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Becamex New City Hotel",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6846084,
+        "latitude":11.0571726,
+        "id": "4214878589"
+    },
+    {
+        "bus_routes": "51",
+        "name": "New City Social Insurance Center",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6812557,
+        "latitude":11.0589305,
+        "id": "4214878590"
+    },
+    {
+        "bus_routes": "51",
+        "name": "Le Lai Aroma",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6750331,
+        "latitude":11.0575292,
+        "id": "4214878592"
+    },
+    { 
+        "bus_routes": "51",        
+        "name": "Eastern International University",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6670739,
+        "latitude":11.0525335,      
+        "id": "3185720100"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Becamex Tower",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6705121,
+        "latitude":10.9758774,
+        "id": "4214878553"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Binh Duong Library",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6560862,
+        "latitude":10.9936651,
+        "id": "4214878563"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Binh Duong General Clinic",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6567101,
+        "latitude":10.9963145,
+        "id": "4214878566"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Pham Ngoc Thach - Nguyen Duong Thuan Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6637777,
+        "latitude":11.0022154,
+        "id": "4214878568"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Petrus Ky Primary School",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6668309,
+        "latitude":11.0053222,
+        "id": "4214878570"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Pham Ngoc Thach - My Phuoc Tan Van Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6691645,
+        "latitude":11.0085027,
+        "id": "4214878572"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Thu Dau Mot Cultural and Sports Centers",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6756054,
+        "latitude":11.0137461,
+        "id": "4214878574"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Pham Ngoc Thach - Tran Ngoc Len Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.67798,
+        "latitude":11.0247679,
+        "id": "4214878576"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Pham Ngoc Thach Str - No.1",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.678784,
+        "latitude":11.0351164,
+        "id": "4214878578"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Hung Vuong - Vo Van Kiet Crossroads",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.676327,
+        "latitude":11.0422748,
+        "id": "4214878580"
+    }, 
+    { 
+        "bus_routes": "55",        
+        "name": "Sora garden",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6789179,
+        "latitude":11.0469268,      
+        "id": "3185720926"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Luky Square",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6823683,
+        "latitude":11.0522581,
+        "id": "4214878581"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Becamex New City Hotel",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6846084,
+        "latitude":11.0571726,
+        "id": "4214878589"
+    },
+    {
+        "bus_routes": "55",
+        "name": "New City Social Insurance Center",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6812557,
+        "latitude":11.0589305,
+        "id": "4214878590"
+    },
+    {
+        "bus_routes": "55",
+        "name": "Le Lai Aroma",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6750331,
+        "latitude":11.0575292,
+        "id": "4214878592"
+    },
+    { 
+        "bus_routes": "55",        
+        "name": "Eastern International University",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6670739,
+        "latitude":11.0525335,      
+        "id": "3185720100"
+    },
+    { 
+        "bus_routes": "66",        
+        "name": "Eastern International University",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6670739,
+        "latitude":11.0525335,      
+        "id": "3185720100"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Becamex IDJ Lake View",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6727532,
+        "latitude":11.0494553,
+        "id": "4216981070"
+    },
+    {
+        "bus_routes": "66",
+        "name": "New City Center Park",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6763305,
+        "latitude":11.0488837,
+        "id": "4216981069"
+    },
+    { 
+        "bus_routes": "66",        
+        "name": "Sora garden",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6789179,
+        "latitude":11.0469268,      
+        "id": "3185720926"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Luky Square",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6823683,
+        "latitude":11.0522581,
+        "id": "4214878581"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Le Loi Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6844111,
+        "latitude":11.0517194,
+        "id": "4214878583"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Dong Khoi Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6865134,
+        "latitude":11.0531158,
+        "id": "4214878586"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Ly Thai To Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6872,
+        "latitude":11.0553736,
+        "id": "4214878588"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Becamex New City Hotel ",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6846084,
+        "latitude":11.0571726,
+        "id": "4214878589"
+    },    
+    {
+        "bus_routes": "66",
+        "name": "New City Social Insurance Center",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6812557,
+        "latitude":11.0589305,
+        "id": "4214878590"
+    },
+    {
+        "bus_routes": "66",
+        "name": "Le Lai Aroma",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6750331,
+        "latitude":11.0575292,
+        "id": "4214878592"
+    },
+    { 
+        "bus_routes": "66",        
+        "name": "Eastern International University",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6670739,
+        "latitude":11.0525335,      
+        "id": "3185720100"
+    },
+    { 
+        "bus_routes": "67",
+        "name": "Becamex New City Hotel",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6844385,
+        "latitude":11.0569454,      
+        "id": "3185712932"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Ly Thai To Commercial Street",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6870726,
+        "latitude":11.0551582,
+        "id": "4214878587"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Nguyen Khuyen Secondary - High School",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6925683,
+        "latitude":11.0617739,
+        "id": "4216979206"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Str No.3 - No.8",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.693633,
+        "latitude":11.0635229,
+        "id": "4216979205"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Str No.3 - No.38",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6919751,
+        "latitude":11.0706664,
+        "id": "4216979204"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Str No.3 - Tran Quoc Toan",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6910338,
+        "latitude":11.0747545,
+        "id": "4216979203"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Phu Chanh Market",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6924848,
+        "latitude":11.0755935,
+        "id": "4216979202"
+    },
+    {
+        "bus_routes": "67",
+        "name": "VSIP 2 Port",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6849785,
+        "latitude":11.0732293,
+        "id": "4214944337"
+    },
+    {
+        "bus_routes": "67",
+        "name": "Le Hoan Unitown",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6854642,
+        "latitude":11.0709744,
+        "id": "4214944336"
+    },
+    {
+        "bus_routes": "67",
+        "name": "New City Social Insurance Center",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.681337,
+        "latitude":11.0586592,
+        "id": "4214878591"
+    },
+    { 
+        "bus_routes": "67",
+        "name": "Becamex New City Hotel",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6844385,
+        "latitude":11.0569454,      
+        "id": "3185712932"
+    },
+    {
+        "bus_routes": "68",
+        "name": "Becamex New City Hotel ",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6846084,
+        "latitude":11.0571726,
+        "id": "4214878589"
+    },
+    {
+        "bus_routes": "68",
+        "name": "Hoa Loi Pagoda",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6748053,
+        "latitude":11.0771814,
+        "id": "4216979192"
+    },
+    {
+        "bus_routes": "68",
+        "name": "Hoa Loi subsidized house",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6732503,
+        "latitude":11.0839917,
+        "id": "4216979194"
+    },     
+    {
+        "bus_routes": "68",
+        "name": "VSIP 2 Dan Chu Str - Ring Road No.2",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.67547,
+        "latitude":11.0848774,
+        "id": "4216979195"
+    },     
+    {
+        "bus_routes": "68",
+        "name": "VISIP 2 Dan Chu Str - Thong Nhat Str",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6813406,
+        "latitude":11.0862059,
+        "id": "4216979196"
+    },
+    {
+        "bus_routes": "68",
+        "name": "VISIP 2 Thong Nhat Str - Str No.6",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6811408,
+        "latitude":11.0893927,
+        "id": "4216979197"
+    },
+    {
+        "bus_routes": "68",
+        "name": "VISIP 2 Thong Nhat Str - Str No.7",
+        "network": "Kaze bus",
+        "operator": "Becamex Tokyu Bus Company",
+        "longitude":106.6804814,
+        "latitude":11.092152,
+        "id": "4216979198"
+    }
+]

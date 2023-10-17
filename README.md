@@ -7,3 +7,6 @@ git add . #update what will be commited
 git commit -m "<commit_name>" #Initiate the commit
 	
 git push #upload local repository content to a remote repository
+
+#Docker(CMD)
+docker compose up . #build image for docker
