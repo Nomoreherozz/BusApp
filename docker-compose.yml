@@ -1,0 +1,79 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - 8001:8000
+    volumes:
+      - ./app:/app
+    command: >
+      sh -c "
+             python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
+    environment:
+      - SECRET_KEY=devsecretkey
+      - DEBUG=1
+    #   - DB_HOST=db
+    #   - DB_NAME=devdb
+    #   - DB_USER=devuser
+    #   - DB_PASS=changeme
+    # depends_on:
+    #   - db
+#   db:
+#     restart: always
+#     image: postgres
+#     container_name: demo-postgres #you can change this
+#     environment:
+#       - POSTGRES_DB=devdb
+#       - POSTGRES_USER=devuser
+#       - POSTGRES_PASSWORD=changeme
+#     ports:
+#       - "5432:5432"
+#     volumes:
+#       - postgres_data:/var/lib/postgresql/data/
+
+#   pgadmin:
+#     image: dpage/pgadmin4
+#     container_name: demo-pgadmin #you can change this
+#     depends_on:
+#       - db
+#     ports:
+#       - "5051:80"
+#     environment:
+#       PGADMIN_DEFAULT_EMAIL: pgadmin4@pgadmin.org
+#       PGADMIN_DEFAULT_PASSWORD: root
+#     restart: always
+
+# volumes:
+#   postgres_data:
+# mongo:
+#   image: mongo
+#   container_name: mongo
+#   env_file: .env
+#   environment:
+#     - MONGO_INITDB_ROOT_USERNAME=root
+#     - MONGO_INITDB_ROOT_PASSWORD=root
+#     - MONGO_INITDB_DATABASE=${MONGO_DB_NAME}
+#     - MONGO_INITDB_USERNAME=${MONGO_DB_USERNAME}
+#     - MONGO_INITDB_PASSWORD=${MONGO_DB_PASSWORD}
+#   volumes:
+#     - /_data/mongo:/data/db
+#     - /docker/_mongo/fixtures:/import
+#     - /docker/_mongo/scripts/init.sh:/docker-entrypoint-initdb.d/setup.sh
+#   ports:
+#     - 27017:27017
+
+# db:
+#   image: postgres:13-alpine
+#   environment:
+#     - POSTGRES_DB=devdb
+#     - POSTGRES_USER=devuser
+#     - POSTGRES_PASSWORD=changeme
+#   ports:
+#     - 5432:5432
+#   volumes:
+#     - tutorial-volume:/var/lib/postgresql/data
+# volumes:
+#   tutorial-volume:

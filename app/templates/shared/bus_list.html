@@ -1,0 +1,11 @@
+<select class="custom-select mb-4" style="background-color: #8dfb9b;", onchange="choose_bus()", id="select_bus">
+    <option selected>39</option>
+    <option>51</option>
+    <option>55</option>
+    <option>66</option>
+    <option>67</option>
+    <option>68</option>
+{{ stops|json_script:"stop-json" }}
+{{ paths|json_script:"path-json" }}
+
+</select>
