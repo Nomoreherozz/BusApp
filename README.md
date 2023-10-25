@@ -1,34 +1,7 @@
 Get your API key from openrouterservice.org and add it to .env file
 
-#GitHub (CMD)
-
-$git add . #update what will be commited
-
-$git commit -m "<commit_name>" #Initiate the commit
-
-$git push #upload local repository content to a remote repository
-
 #Docker (CMD)
-docker build . -t bus
-docker run -p 8001:8000 -it --rm bus
 
-$docker compose up . #build image for docker
+$docker-compose build #build image for docker
 
-#Virtualenv
-$Set-ExecutionPolicy Unrestricted -Scope Process
-$env\Scripts\activate
-$deactivate
-
-$python manage.py makemigrations tracker
-$python manage.py makemigrations
-$python manage.py migrate
-$python manage.py createsuperuser
-
-$python manage.py runserver
-$python manage.py runserver localhost:8000
-
-localhost:1234/admin
-username: anhKhaikute
-pass:1
-
-python manage.py wait_for_db &&
+$docker-compose up #create and run container
