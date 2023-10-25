@@ -10,11 +10,12 @@ function choose_basemap() {
       }
     ).addTo(map);
   } else if (basemap == "OPENSTREETMAP") {
-    choosenBasemap = L.tileLayer;
-    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    choosenBasemap = L.tileLayer(
+      "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
       {
         maxZoom: 19,
-      }().addTo(map);
+      }
+    ).addTo(map);
   } else if (basemap == "GOOGLE SATELITE") {
     L.tileLayer("http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}", {
       maxZoom: 20,
