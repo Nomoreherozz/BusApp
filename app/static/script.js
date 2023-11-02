@@ -1,19 +1,19 @@
 function choose_basemap() {
   var basemap = document.getElementById("select_basemap").value;
 
-  if (basemap == "GOOGLE MAP") {
+  if (basemap == "OPENSTREETMAP") {
     var choosenBasemap = L.tileLayer(
+      "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+      {
+        maxZoom: 19,
+      }
+    ).addTo(map);
+  } else if (basemap == "GOOGLE MAP") {
+    choosenBasemap = L.tileLayer(
       "http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
       {
         maxZoom: 20,
         subdomains: ["mt0", "mt1", "mt2", "mt3"],
-      }
-    ).addTo(map);
-  } else if (basemap == "OPENSTREETMAP") {
-    choosenBasemap = L.tileLayer(
-      "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-      {
-        maxZoom: 19,
       }
     ).addTo(map);
   } else if (basemap == "GOOGLE SATELITE") {
@@ -47,7 +47,7 @@ function congest_segment(e) {
     [start, end] = [end, start];
   }
   coords.push(L.latLng(e.routes[0].coordinates[start]));
-  console.log(start, end);
+
   for (let i = 0; i < e.routes[0].waypointIndices.length; i++) {
     if (
       start < e.routes[0].waypointIndices[i] &&
@@ -72,7 +72,9 @@ function congest_segment(e) {
     createMarker: function (i, wp, nWps) {
       if ((i == 0) | (i == nWps - 1)) {
         return L.marker(wp.latLng, { icon: redIcon })
-          .bindPopup("Đoạn Đường này hiện đang kẹt xe")
+          .bindPopup(
+            "Chỗ này đang kẹt xe do wibu tụ tập, đề nghị báo ông can bắt hết"
+          )
           .openPopup();
       }
     },
@@ -141,39 +143,48 @@ function getDetail(points, number) {
 function run(e, stopDict) {
   var station_id = 0;
   var station_index = e.routes[0].waypointIndices;
-  var dist_from_src;
 
   e.routes[0].coordinates.forEach(function (coord, index) {
     setTimeout(function () {
       if (station_index.includes(index)) {
         station_id = station_index.indexOf(index) + 1;
-        dist_from_src = stopDict[station_id.toString()].distance;
       }
 
       dist_from_src -= getVelocity();
 
-      hoverBusInfo(bux, station_id);
-
-      console.log(
-        "Trạm: " +
-          station_id.toString() +
-          ", " +
-          stopDict[station_id.toString()].name +
-          ", khoảng cách đến trạm kế tiếp: " +
-          dist_from_src.toString()
-      );
       bux.setLatLng([coord.lat, coord.lng]);
     }, 1000 * index);
   });
   congest_segment(e);
 }
 
-function hoverBusInfo(mrk, station_id) {
+function get_all_info(lst, number) {
+  var locDict = {};
+  var j = 1;
+  for (var i = 0; i < lst.length; i++) {
+    if (lst[i].route == number) {
+      locDict[j] = {
+        latitude: lst[i].latitude,
+        longitude: lst[i].longitude,
+        number_plate: lst[i].number_plate,
+        timestamp: lst[i].timestamp,
+        velocity: lst[i].velocity,
+      };
+      j++;
+    }
+  }
+
+  return locDict;
+}
+
+function hoverBusInfo(mrk, obj) {
   mrk.bindPopup(
-    "Đang ở trạm " +
-      station_id.toString() +
-      ", vận tốc hiện tại là: " +
-      getVelocity()
+    "Biển số: " +
+      obj.number_plate +
+      ", Vận tốc: " +
+      obj.velocity +
+      ", Thời điểm: " +
+      obj.timestamp
   );
   mrk.on("mouseover", function (e) {
     this.openPopup();
@@ -199,10 +210,21 @@ function firstStop(number) {
   return first_point;
 }
 
+function bus_footprint(busDict) {
+  var i = 1;
+  while (i < Object.keys(busDict).length) {
+    m = L.marker([busDict[i].latitude, busDict[i].longitude], {
+      icon: busIcon,
+    }).addTo(markersLayer);
+    hoverBusInfo(m, busDict[i]);
+    i = i + Math.floor(Object.keys(busDict).length / 15);
+  }
+}
+
 var busIcon = L.icon({
   iconUrl: "https://cdn-icons-png.flaticon.com/512/5030/5030991.png",
   iconSize: [40, 40],
-  // iconAnchor: [12, 41],
+  //iconAnchor: [12, 41],
   popupAnchor: [1, -34],
   shadowSize: [41, 41],
 });
@@ -232,20 +254,25 @@ var redIcon = new L.Icon({
 var bux = L.marker();
 route = L.Routing.control({});
 drive = L.Routing.control({});
+var markersLayer = new L.LayerGroup();
 
 function choose_bus() {
   var bus = document.getElementById("select_bus").value;
   let points = JSON.parse(document.getElementById("stop-json").textContent);
+  let buses = JSON.parse(document.getElementById("bus-json").textContent);
 
   map.removeLayer(bux);
   map.removeControl(route);
+  markersLayer.clearLayers();
 
+  var busDict = get_all_info(buses, bus);
   bux = firstStop(bus).addTo(map);
 
+  bus_footprint(busDict);
+  markersLayer.addTo(map);
   var [stopDict, coords] = getDetail(points, bus);
 
   showPath_Marker(coords, stopDict);
-
   bux.on("click", function () {
     map.removeControl(route);
     map.removeControl(drive);

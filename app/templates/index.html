@@ -11,5 +11,7 @@
 
 
 {% block route %}
+    {{ stops|json_script:"stop-json" }}
     {% include 'shared/bus_list.html' %}
+    {{ bus|json_script:"bus-json" }}
 {% endblock %}

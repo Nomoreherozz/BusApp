@@ -10,11 +10,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ.get('SECRET_KEY')
-#SECRET_KEY = "django-insecure-%pb^w@nwg--q=@sp!0z&-*4o*39!!-5x*hljzgi3-2=v#hg8&-"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(int(os.environ.get('DEBUG', 0)))
-#DEBUG = True
 
 ALLOWED_HOSTS = []
 ALLOWED_HOSTS.extend(
@@ -23,6 +21,7 @@ ALLOWED_HOSTS.extend(
         os.environ.get('ALLOWED_HOSTS', '').split(','),
     )
 )
+
 
 
 # Application definition
@@ -75,24 +74,6 @@ WSGI_APPLICATION = "busmap.wsgi.application"
 
 DATABASES = {
     "default": {
-        # "ENGINE": "djongo",
-        # "NAME": os.environ.get('MONGO_DB_NAME'),
-        # "CLIENT": {
-        #     "host": os.environ.get('MONGO_DB_HOST'),
-        #     "port": int(os.environ.get('MONGO_DB_PORT')),
-        #     "username": os.environ.get('MONGO_DB_USERNAME'),
-        #     "password": os.environ.get('MONGO_DB_PASSWORD'),
-        # },
-        # 'TEST': {
-        #     'MIRROR': 'default',
-        # },
-
-        # 'ENGINE': 'django.db.backends.postgresql',
-        # 'HOST': os.environ.get('DB_HOST'),
-        # 'NAME': os.environ.get('DB_NAME'),
-        # 'USER': os.environ.get('DB_USER'),
-        # 'PASSWORD': os.environ.get('DB_PASS'),
-
         "ENGINE": "django.db.backends.sqlite3",
         "NAME": BASE_DIR / "db.sqlite3",
     }

@@ -1,0 +1,865 @@
+{
+    "route": 55,
+    "number_plate": "7438",
+    "geometry": {
+        "type": "Point",
+        "location": [
+            {
+                "coordinators": [
+                    10.97581,
+                    106.67055
+                ],
+                "timestamp": "14:28:04",
+                "velocity": 23.62
+            },
+            {
+                "coordinators": [
+                    10.97546,
+                    106.66982
+                ],
+                "timestamp": "14:28:18",
+                "velocity": 48.58
+            },
+            {
+                "coordinators": [
+                    10.9769,
+                    106.66911
+                ],
+                "timestamp": "14:28:32",
+                "velocity": 40.4
+            },
+            {
+                "coordinators": [
+                    10.97859,
+                    106.66831
+                ],
+                "timestamp": "14:28:46",
+                "velocity": 39.95
+            },
+            {
+                "coordinators": [
+                    10.97949,
+                    106.66787
+                ],
+                "timestamp": "14:28:60",
+                "velocity": 1.22
+            },
+            {
+                "coordinators": [
+                    10.98045,
+                    106.6674
+                ],
+                "timestamp": "14:29:14",
+                "velocity": 38.56
+            },
+            {
+                "coordinators": [
+                    10.98109,
+                    106.66715
+                ],
+                "timestamp": "14:29:28",
+                "velocity": 1.71
+            },
+            {
+                "coordinators": [
+                    10.98242,
+                    106.66667
+                ],
+                "timestamp": "14:29:42",
+                "velocity": 17.13
+            },
+            {
+                "coordinators": [
+                    10.98359,
+                    106.6664
+                ],
+                "timestamp": "14:29:56",
+                "velocity": 42.44
+            },
+            {
+                "coordinators": [
+                    10.98404,
+                    106.66631
+                ],
+                "timestamp": "14:30:10",
+                "velocity": 38.69
+            },
+            {
+                "coordinators": [
+                    10.98438,
+                    106.66622
+                ],
+                "timestamp": "14:30:24",
+                "velocity": 28.73
+            },
+            {
+                "coordinators": [
+                    10.98584,
+                    106.66579
+                ],
+                "timestamp": "14:30:38",
+                "velocity": 30.02
+            },
+            {
+                "coordinators": [
+                    10.98647,
+                    106.66551
+                ],
+                "timestamp": "14:30:52",
+                "velocity": 9.3
+            },
+            {
+                "coordinators": [
+                    10.9871,
+                    106.66521
+                ],
+                "timestamp": "14:31:06",
+                "velocity": 33.2
+            },
+            {
+                "coordinators": [
+                    10.98942,
+                    106.66404
+                ],
+                "timestamp": "14:31:20",
+                "velocity": 9.24
+            },
+            {
+                "coordinators": [
+                    10.99038,
+                    106.66354
+                ],
+                "timestamp": "14:31:34",
+                "velocity": 33.44
+            },
+            {
+                "coordinators": [
+                    10.99129,
+                    106.66289
+                ],
+                "timestamp": "14:31:48",
+                "velocity": 2.73
+            },
+            {
+                "coordinators": [
+                    10.99156,
+                    106.66257
+                ],
+                "timestamp": "14:32:02",
+                "velocity": 10.35
+            },
+            {
+                "coordinators": [
+                    10.99207,
+                    106.66168
+                ],
+                "timestamp": "14:32:16",
+                "velocity": 0.6
+            },
+            {
+                "coordinators": [
+                    10.99228,
+                    106.66093
+                ],
+                "timestamp": "14:32:30",
+                "velocity": 24.11
+            },
+            {
+                "coordinators": [
+                    10.99245,
+                    106.65935
+                ],
+                "timestamp": "14:32:44",
+                "velocity": 42.82
+            },
+            {
+                "coordinators": [
+                    10.99258,
+                    106.65822
+                ],
+                "timestamp": "14:32:58",
+                "velocity": 24.09
+            },
+            {
+                "coordinators": [
+                    10.99265,
+                    106.65734
+                ],
+                "timestamp": "14:33:12",
+                "velocity": 12.32
+            },
+            {
+                "coordinators": [
+                    10.99278,
+                    106.65651
+                ],
+                "timestamp": "14:33:26",
+                "velocity": 41.58
+            },
+            {
+                "coordinators": [
+                    10.99299,
+                    106.65599
+                ],
+                "timestamp": "14:33:40",
+                "velocity": 17.11
+            },
+            {
+                "coordinators": [
+                    10.99342,
+                    106.65601
+                ],
+                "timestamp": "14:33:54",
+                "velocity": 2.13
+            },
+            {
+                "coordinators": [
+                    10.99367,
+                    106.65602
+                ],
+                "timestamp": "14:34:08",
+                "velocity": 16.13
+            },
+            {
+                "coordinators": [
+                    10.99367,
+                    106.65602
+                ],
+                "timestamp": "14:34:22",
+                "velocity": 31.27
+            },
+            {
+                "coordinators": [
+                    10.99448,
+                    106.65607
+                ],
+                "timestamp": "14:34:36",
+                "velocity": 12.21
+            },
+            {
+                "coordinators": [
+                    10.99519,
+                    106.65628
+                ],
+                "timestamp": "14:34:50",
+                "velocity": 28.75
+            },
+            {
+                "coordinators": [
+                    10.99619,
+                    106.65658
+                ],
+                "timestamp": "14:35:04",
+                "velocity": 44.67
+            },
+            {
+                "coordinators": [
+                    10.99634,
+                    106.65662
+                ],
+                "timestamp": "14:35:18",
+                "velocity": 4.33
+            },
+            {
+                "coordinators": [
+                    10.99704,
+                    106.65686
+                ],
+                "timestamp": "14:35:32",
+                "velocity": 11.39
+            },
+            {
+                "coordinators": [
+                    10.99769,
+                    106.65729
+                ],
+                "timestamp": "14:35:46",
+                "velocity": 7.26
+            },
+            {
+                "coordinators": [
+                    10.99863,
+                    106.6583
+                ],
+                "timestamp": "14:35:60",
+                "velocity": 40.64
+            },
+            {
+                "coordinators": [
+                    10.9995,
+                    106.65921
+                ],
+                "timestamp": "14:36:14",
+                "velocity": 40.39
+            },
+            {
+                "coordinators": [
+                    11.00031,
+                    106.66033
+                ],
+                "timestamp": "14:36:28",
+                "velocity": 30.89
+            },
+            {
+                "coordinators": [
+                    11.00062,
+                    106.66085
+                ],
+                "timestamp": "14:36:42",
+                "velocity": 37.23
+            },
+            {
+                "coordinators": [
+                    11.00136,
+                    106.66216
+                ],
+                "timestamp": "14:36:56",
+                "velocity": 7.76
+            },
+            {
+                "coordinators": [
+                    11.00189,
+                    106.66321
+                ],
+                "timestamp": "14:37:10",
+                "velocity": 25.53
+            },
+            {
+                "coordinators": [
+                    11.0021,
+                    106.66355
+                ],
+                "timestamp": "14:37:24",
+                "velocity": 25.4
+            },
+            {
+                "coordinators": [
+                    11.00224,
+                    106.66376
+                ],
+                "timestamp": "14:37:38",
+                "velocity": 2.95
+            },
+            {
+                "coordinators": [
+                    11.00256,
+                    106.66418
+                ],
+                "timestamp": "14:37:52",
+                "velocity": 33.2
+            },
+            {
+                "coordinators": [
+                    11.00352,
+                    106.66537
+                ],
+                "timestamp": "14:38:06",
+                "velocity": 35.29
+            },
+            {
+                "coordinators": [
+                    11.00408,
+                    106.66581
+                ],
+                "timestamp": "14:38:20",
+                "velocity": 47.29
+            },
+            {
+                "coordinators": [
+                    11.0052,
+                    106.66667
+                ],
+                "timestamp": "14:38:34",
+                "velocity": 30.85
+            },
+            {
+                "coordinators": [
+                    11.00536,
+                    106.66678
+                ],
+                "timestamp": "14:38:48",
+                "velocity": 49.51
+            },
+            {
+                "coordinators": [
+                    11.00629,
+                    106.66745
+                ],
+                "timestamp": "14:39:02",
+                "velocity": 2.84
+            },
+            {
+                "coordinators": [
+                    11.00803,
+                    106.66869
+                ],
+                "timestamp": "14:39:16",
+                "velocity": 33.08
+            },
+            {
+                "coordinators": [
+                    11.00835,
+                    106.66897
+                ],
+                "timestamp": "14:39:30",
+                "velocity": 26.28
+            },
+            {
+                "coordinators": [
+                    11.00851,
+                    106.66916
+                ],
+                "timestamp": "14:39:44",
+                "velocity": 40.03
+            },
+            {
+                "coordinators": [
+                    11.00912,
+                    106.66987
+                ],
+                "timestamp": "14:39:58",
+                "velocity": 5.85
+            },
+            {
+                "coordinators": [
+                    11.01054,
+                    106.67195
+                ],
+                "timestamp": "14:40:12",
+                "velocity": 16.97
+            },
+            {
+                "coordinators": [
+                    11.01184,
+                    106.67386
+                ],
+                "timestamp": "14:40:26",
+                "velocity": 13.28
+            },
+            {
+                "coordinators": [
+                    11.01263,
+                    106.675
+                ],
+                "timestamp": "14:40:40",
+                "velocity": 31.18
+            },
+            {
+                "coordinators": [
+                    11.01287,
+                    106.67535
+                ],
+                "timestamp": "14:40:54",
+                "velocity": 38.22
+            },
+            {
+                "coordinators": [
+                    11.01316,
+                    106.67538
+                ],
+                "timestamp": "14:41:08",
+                "velocity": 15.67
+            },
+            {
+                "coordinators": [
+                    11.01353,
+                    106.67541
+                ],
+                "timestamp": "14:41:22",
+                "velocity": 40.8
+            },
+            {
+                "coordinators": [
+                    11.01378,
+                    106.67546
+                ],
+                "timestamp": "14:41:36",
+                "velocity": 8.58
+            },
+            {
+                "coordinators": [
+                    11.01449,
+                    106.6756
+                ],
+                "timestamp": "14:41:50",
+                "velocity": 43.0
+            },
+            {
+                "coordinators": [
+                    11.01658,
+                    106.67605
+                ],
+                "timestamp": "14:42:04",
+                "velocity": 36.2
+            },
+            {
+                "coordinators": [
+                    11.01828,
+                    106.67642
+                ],
+                "timestamp": "14:42:18",
+                "velocity": 48.17
+            },
+            {
+                "coordinators": [
+                    11.02074,
+                    106.67699
+                ],
+                "timestamp": "14:42:32",
+                "velocity": 33.41
+            },
+            {
+                "coordinators": [
+                    11.02367,
+                    106.67765
+                ],
+                "timestamp": "14:42:46",
+                "velocity": 12.16
+            },
+            {
+                "coordinators": [
+                    11.02479,
+                    106.67789
+                ],
+                "timestamp": "14:42:60",
+                "velocity": 34.71
+            },
+            {
+                "coordinators": [
+                    11.02578,
+                    106.67812
+                ],
+                "timestamp": "14:43:14",
+                "velocity": 9.1
+            },
+            {
+                "coordinators": [
+                    11.0278,
+                    106.67857
+                ],
+                "timestamp": "14:43:28",
+                "velocity": 38.05
+            },
+            {
+                "coordinators": [
+                    11.02987,
+                    106.67903
+                ],
+                "timestamp": "14:43:42",
+                "velocity": 46.19
+            },
+            {
+                "coordinators": [
+                    11.03108,
+                    106.67928
+                ],
+                "timestamp": "14:43:56",
+                "velocity": 11.96
+            },
+            {
+                "coordinators": [
+                    11.03222,
+                    106.67933
+                ],
+                "timestamp": "14:44:10",
+                "velocity": 36.29
+            },
+            {
+                "coordinators": [
+                    11.03378,
+                    106.67916
+                ],
+                "timestamp": "14:44:24",
+                "velocity": 45.47
+            },
+            {
+                "coordinators": [
+                    11.0351,
+                    106.67872
+                ],
+                "timestamp": "14:44:38",
+                "velocity": 19.07
+            },
+            {
+                "coordinators": [
+                    11.03526,
+                    106.67867
+                ],
+                "timestamp": "14:44:52",
+                "velocity": 14.85
+            },
+            {
+                "coordinators": [
+                    11.03874,
+                    106.67743
+                ],
+                "timestamp": "14:45:06",
+                "velocity": 21.58
+            },
+            {
+                "coordinators": [
+                    11.04187,
+                    106.67632
+                ],
+                "timestamp": "14:45:20",
+                "velocity": 1.48
+            },
+            {
+                "coordinators": [
+                    11.04223,
+                    106.6762
+                ],
+                "timestamp": "14:45:34",
+                "velocity": 20.21
+            },
+            {
+                "coordinators": [
+                    11.04324,
+                    106.67587
+                ],
+                "timestamp": "14:45:48",
+                "velocity": 28.43
+            },
+            {
+                "coordinators": [
+                    11.04338,
+                    106.67596
+                ],
+                "timestamp": "14:46:02",
+                "velocity": 38.05
+            },
+            {
+                "coordinators": [
+                    11.04352,
+                    106.67606
+                ],
+                "timestamp": "14:46:16",
+                "velocity": 46.48
+            },
+            {
+                "coordinators": [
+                    11.04368,
+                    106.67625
+                ],
+                "timestamp": "14:46:30",
+                "velocity": 45.75
+            },
+            {
+                "coordinators": [
+                    11.0438,
+                    106.67647
+                ],
+                "timestamp": "14:46:44",
+                "velocity": 6.19
+            },
+            {
+                "coordinators": [
+                    11.04586,
+                    106.67792
+                ],
+                "timestamp": "14:46:58",
+                "velocity": 39.31
+            },
+            {
+                "coordinators": [
+                    11.04689,
+                    106.67866
+                ],
+                "timestamp": "14:47:12",
+                "velocity": 13.44
+            },
+            {
+                "coordinators": [
+                    11.04703,
+                    106.67876
+                ],
+                "timestamp": "14:47:26",
+                "velocity": 37.44
+            },
+            {
+                "coordinators": [
+                    11.05006,
+                    106.68094
+                ],
+                "timestamp": "14:47:40",
+                "velocity": 24.02
+            },
+            {
+                "coordinators": [
+                    11.05106,
+                    106.68165
+                ],
+                "timestamp": "14:47:54",
+                "velocity": 27.77
+            },
+            {
+                "coordinators": [
+                    11.05203,
+                    106.68235
+                ],
+                "timestamp": "14:48:08",
+                "velocity": 8.6
+            },
+            {
+                "coordinators": [
+                    11.05219,
+                    106.68247
+                ],
+                "timestamp": "14:48:22",
+                "velocity": 2.04
+            },
+            {
+                "coordinators": [
+                    11.05383,
+                    106.68364
+                ],
+                "timestamp": "14:48:36",
+                "velocity": 12.21
+            },
+            {
+                "coordinators": [
+                    11.05634,
+                    106.68544
+                ],
+                "timestamp": "14:48:50",
+                "velocity": 38.75
+            },
+            {
+                "coordinators": [
+                    11.05659,
+                    106.68528
+                ],
+                "timestamp": "14:49:04",
+                "velocity": 14.45
+            },
+            {
+                "coordinators": [
+                    11.0571,
+                    106.68455
+                ],
+                "timestamp": "14:49:18",
+                "velocity": 39.92
+            },
+            {
+                "coordinators": [
+                    11.05726,
+                    106.68432
+                ],
+                "timestamp": "14:49:32",
+                "velocity": 4.65
+            },
+            {
+                "coordinators": [
+                    11.05762,
+                    106.6838
+                ],
+                "timestamp": "14:49:46",
+                "velocity": 7.45
+            },
+            {
+                "coordinators": [
+                    11.05813,
+                    106.68333
+                ],
+                "timestamp": "14:49:60",
+                "velocity": 37.4
+            },
+            {
+                "coordinators": [
+                    11.05872,
+                    106.68301
+                ],
+                "timestamp": "14:50:14",
+                "velocity": 24.31
+            },
+            {
+                "coordinators": [
+                    11.05939,
+                    106.68283
+                ],
+                "timestamp": "14:50:28",
+                "velocity": 12.58
+            },
+            {
+                "coordinators": [
+                    11.06044,
+                    106.68259
+                ],
+                "timestamp": "14:50:42",
+                "velocity": 31.77
+            },
+            {
+                "coordinators": [
+                    11.05936,
+                    106.68271
+                ],
+                "timestamp": "14:50:56",
+                "velocity": 29.05
+            },
+            {
+                "coordinators": [
+                    11.05912,
+                    106.68169
+                ],
+                "timestamp": "14:51:10",
+                "velocity": 26.7
+            },
+            {
+                "coordinators": [
+                    11.05901,
+                    106.68124
+                ],
+                "timestamp": "14:51:24",
+                "velocity": 39.21
+            },
+            {
+                "coordinators": [
+                    11.05883,
+                    106.68045
+                ],
+                "timestamp": "14:51:38",
+                "velocity": 13.54
+            },
+            {
+                "coordinators": [
+                    11.05862,
+                    106.6805
+                ],
+                "timestamp": "14:51:52",
+                "velocity": 36.12
+            },
+            {
+                "coordinators": [
+                    11.05776,
+                    106.67657
+                ],
+                "timestamp": "14:52:06",
+                "velocity": 9.57
+            },
+            {
+                "coordinators": [
+                    11.05767,
+                    106.6761
+                ],
+                "timestamp": "14:52:20",
+                "velocity": 32.5
+            },
+            {
+                "coordinators": [
+                    11.05742,
+                    106.67505
+                ],
+                "timestamp": "14:52:34",
+                "velocity": 19.69
+            },
+            {
+                "coordinators": [
+                    11.05752,
+                    106.67501
+                ],
+                "timestamp": "14:52:48",
+                "velocity": 22.48
+            }
+        ]
+    }
+}
